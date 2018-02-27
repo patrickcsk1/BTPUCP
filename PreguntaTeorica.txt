@@ -1,1 +1,9 @@
 Apache Cassandra
+
+Es una base de datos NoSQL cuyo principal atractivo reside en tener una mayor escalabilidad y alta disponibilidad sin comprometer
+el rendimiento de la aplicación de misión crítica.Además, puede tratar facil problemas relacionados con la velocidad, variedad y complejidad
+de datos mediante el manejo del cluster, el control de las diferentes entradas de donde provienen los datos.
+
+Por otro lado, Cassandra puede manejar conjunto de datos masivos; dado a su arquitectura peer to peer el administrador solo debe 
+preocuparse de un tipo de máquina. Su uso mayoritario se da en usos de Big Data. En cuanto a la relación que tiene con Python, se basa
+en funcionar como un recurso más de este que pueda ser usado.
